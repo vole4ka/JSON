@@ -1,0 +1,11 @@
+{"my_preferences": [
+	{"film": "Harry_Potter"},
+	{"series": "Trigger"},
+	{"food":[ "pizza",
+		"pancakes",
+		"cutlets",
+		"cake",
+		"apple"]},
+	{"season": "summer"},
+	{"country": "Spain"} ]}
+
